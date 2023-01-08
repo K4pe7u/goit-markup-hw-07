@@ -1,4 +1,4 @@
-# goit-markup-hw-06
-HomeWork nr 6
-FORM
+# goit-markup-hw-07
+HomeWork nr 7
+BEM SASS SCSS
 
